@@ -99,11 +99,11 @@
 		9356D1DD2589CB6400C44CA2 /* ARRulerr */ = {
 			isa = PBXGroup;
 			children = (
-				9356D1DE2589CB6400C44CA2 /* AppDelegate.swift */,
-				9356D1E02589CB6400C44CA2 /* art.scnassets */,
 				9356D1E22589CB6400C44CA2 /* ViewController.swift */,
 				9356D1E42589CB6400C44CA2 /* Main.storyboard */,
+				9356D1E02589CB6400C44CA2 /* art.scnassets */,
 				9356D1E72589CB6700C44CA2 /* Assets.xcassets */,
+				9356D1DE2589CB6400C44CA2 /* AppDelegate.swift */,
 				9356D1E92589CB6700C44CA2 /* LaunchScreen.storyboard */,
 				9356D1EC2589CB6700C44CA2 /* Info.plist */,
 			);
